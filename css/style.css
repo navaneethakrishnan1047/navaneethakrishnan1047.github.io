@@ -1727,3 +1727,8 @@ footer {
 .testimonials-carousel .img-fluid {
   width: 250px !important;
 }
+/*  */
+.width-370{
+  width: 370px !important;
+  height: auto;
+}
